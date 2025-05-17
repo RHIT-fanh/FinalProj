@@ -10,4 +10,5 @@ is_back_to_back —— 是否为背靠背比赛（昨天刚打完比赛）
 
 
 待实现：
-travel_distance —— 上一场比赛到这场比赛的旅行距离（如能计算）
+season_type*上一场比赛时间
+
