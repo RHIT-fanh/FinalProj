@@ -34,7 +34,7 @@ Please ensure the following Python packages are installed:
 
 ```bash
 pip install pandas scikit-learn numpy kagglehub lightgbm matplotlib xgboost
-
+```
 
 **Generated Intermediate Datasets**：
 - `game_stats_2000_onwards.csv`
